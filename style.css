@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(75, 75, 75);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+}
+
+
+#count_label{
+    display:  block;
+    text-align: center;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+}
+
+.button{
+    text-align: center;
+    color: aliceblue;
+    font-size: x-large;
+    border-radius: 50%;
+    background-color: black;
+}
+
+#decrease_button{
+    border-radius: 15px;
+    font-size: larger;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 3, 3);
+    font-weight: bold;
+}
+
+#reset_button{
+    border-radius: 15px;
+    font-size: larger;
+    background-color: rgb(255, 255, 255);
+    color: rgb(127, 123, 123);
+    font-weight: bold;
+}
+
+#increase_button{
+    border-radius: 15px;
+    font-size: larger;
+    background-color: rgb(255, 255, 255);
+    color: rgba(98, 157, 21, 0.829);
+    font-weight: bold;
+    
+}
